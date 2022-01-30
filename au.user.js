@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AgarUnlimited
+// @name         Am Bot
 // @version      3.0.0
 // @description  AgarUnlimited Revive by Neon
 // @author       Neon - Sizrex - MrSonicMaster - NuclearC - StrikerJS - Nebula
